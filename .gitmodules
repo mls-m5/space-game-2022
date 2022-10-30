@@ -1,0 +1,3 @@
+[submodule "lib/matengine"]
+	path = lib/matengine
+	url = git@github.com:mls-m5/matengine.git

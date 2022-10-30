@@ -1,7 +1,11 @@
-.space-game-2022.config
-.space-game-2022.creator
-.space-game-2022.creator.user
-.space-game-2022.cxxflags
-.space-game-2022.files
-.space-game-2022.includes
+# qtcreator files
+*.config
+*.creator
+*.creator.user
+*.cxxflags
+*.files
+*.includes
+*.cflags
+.qtc_clangd/
 
+build
